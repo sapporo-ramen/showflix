@@ -1,2 +1,3 @@
 Update
-A new update for the app will be realeased soon with fixed issues for smooth user experience
+A new update for the app has been realeased  with fixed issues for smooth user experience
+https://github.com/sapporo-ramen/showflix/releases/download/Version/app-release.apk
